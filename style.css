@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+login_btn-1{
+    background-color: #fff;
+    border: none;
+    height: 35px;
+    width: 361px;
+    font-weight: bold;
+    color: #2874f0;
+    font-size: 15px;
+    /* margin-right: 400px; */
+    margin-top: 11px;
+}
+
+
+.header-top{
+    background-color: rgb(40, 116, 240);
+    height: 56px;
+    display: flex;
+    justify-content: center;
+}
+.plus_color{
+    color: #ffe500;
+    font-weight: 400;
+    font-family: italic;
+    
+    }
+
+.logo_color{
+        position: relative;
+        top: -6px;
+        color: white;
+        font-style: italic;
+        font-size: 12px;
+    } 
+.Flipkart_logo{
+    margin-top: 11px;
+}    
+.scrolling-wrapper {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;}
+  
+    .card {
+      display: inline-block;
+    }
+  
